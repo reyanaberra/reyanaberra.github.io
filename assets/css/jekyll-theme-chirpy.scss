@@ -19,7 +19,7 @@
 }
 
 #sidebar #avatar img {
-    width: 150px !important; /* Adjust the width as needed */
-    height: 150px !important; /* Adjust the height as needed */
+    width: 100% !important; /* Adjust the width as needed */
+    height: 100% !important; /* Adjust the height as needed */
     object-fit: cover; /* Ensure the image covers the container */
 }
