@@ -9,8 +9,11 @@
 
 /* append your custom style below */
 
-.avatar img {
-    width: 300px; /* Set the desired width */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 0%; /* Optional: makes the avatar circular */
+#sidebar #avatar {
+    display: block;
+    width: 11rem;
+    height: 11rem;
+    overflow: hidden;
+    box-shadow: var(--avatar-border-color) 0 0 0 2px;
+    transform: translateZ(0)
 }
