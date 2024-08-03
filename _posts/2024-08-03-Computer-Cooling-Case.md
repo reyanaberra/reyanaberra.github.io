@@ -1,7 +1,7 @@
 
 ---
-title: Computer Cooling Case
-description: My fluid-thermal CFD simulation project in Ansys Fluent
+title: Project 1
+description: My thermal simulation project
 date: 2019-08-08 11:33:00 +0800
 pin: false
 math: true
