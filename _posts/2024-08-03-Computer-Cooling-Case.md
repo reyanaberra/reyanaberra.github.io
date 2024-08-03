@@ -1,7 +1,7 @@
 
 ---
-title: Project 1
-description: My thermal simulation project
+title: Computer Cooling Case
+description: My fluid-thermal CFD simulation project in Ansys Fluent
 date: 2019-08-08 11:33:00 +0800
 pin: false
 math: true
@@ -9,158 +9,42 @@ mermaid: true
 
 ---
 
-## Headings
-
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-# H1 — heading
-{: .mt-4 .mb-0 }
-
-## H2 — heading
-{: data-toc-skip='' .mt-4 .mb-0 }
-
-### H3 — heading
-{: data-toc-skip='' .mt-4 .mb-0 }
-
-#### H4 — heading
-{: data-toc-skip='' .mt-4 }
-<!-- markdownlint-restore -->
-
-## Images
-
-### Default (with caption)
+## SolidWorks CAD Model
 
 ![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
 _CAD model of the case housing a Raspberry Pi 5_
 
-## Paragraph
+## SolidWorks Render
 
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
 
-## Lists
+## SpaceClaim Cleanup
 
-### Ordered list
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
 
-1. Firstly
-2. Secondly
-3. Thirdly
+## Component Meshing
 
-### Unordered list
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
 
-- Chapter
-  - Section
-    - Paragraph
+## Surface Temperature Contour Plots
 
-### ToDo list
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
 
-- [ ] Job
-  - [x] Step 1
-  - [x] Step 2
-  - [ ] Step 3
+## Velocity Vector Plots
 
-### Description list
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
 
-Sun
-: the star around which the earth orbits
+## Stress Test Results
 
-Moon
-: the natural satellite of the earth, visible by reflected light from the sun
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
 
-## Block Quote
+## 3D Printed Case
 
-> This line shows the _block quote_.
-
-## Prompts
-
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> An example showing the `tip` type prompt.
-{: .prompt-tip }
-
-> An example showing the `info` type prompt.
-{: .prompt-info }
-
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
-
-> An example showing the `danger` type prompt.
-{: .prompt-danger }
-<!-- markdownlint-restore -->
-
-## Tables
-
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
-
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
-
-## Inline code
-
-This is an example of `Inline Code`.
-
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
-
-## Code blocks
-
-### Common
-
-```text
-This is a common code snippet, without syntax highlight and line number.
-```
-
-### Specific Language
-
-```bash
-if [ $? -ne 0 ]; then
-  echo "The command was not successful.";
-  #do the needful / exit
-fi;
-```
-
-### Specific filename
-
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography";
-```
-{: file='_sass/jekyll-theme-chirpy.scss'}
-
-$$
-\begin{equation}
-  \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}
-  \label{eq:series}
-\end{equation}
-$$
-
-We can reference the equation as \eqref{eq:series}.
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## Mermaid SVG
-
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
-```
-
-## Video
-
-{% include embed/youtube.html id='Balreaj8Yqs' %}
-
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+_CAD model of the case housing a Raspberry Pi 5_
