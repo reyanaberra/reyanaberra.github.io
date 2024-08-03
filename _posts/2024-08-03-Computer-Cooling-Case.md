@@ -1,8 +1,8 @@
 
 ---
-title: Project 1
+title: Computer Cooling Case
 description: My thermal simulation project
-date: 2019-08-08 11:33:00 +0800
+date: 2024-08-03 11:33:00 +0800
 pin: false
 math: true
 mermaid: true
