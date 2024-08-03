@@ -1,4 +1,3 @@
-
 ---
 title: Computer Cooling Case
 description: My thermal simulation project
