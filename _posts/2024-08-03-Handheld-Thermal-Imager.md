@@ -7,7 +7,7 @@ pin: false
 
 ## Thermal Imager Code
 
-```assets
+```sass
 @import
   "assets/img/ThermalImager/Thermal_Camera.ino";
 ```
