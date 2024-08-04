@@ -1,7 +1,7 @@
 ---
 title: Global Earthquake Plotter
 description: MATLAB program which visualizes earthquakes around the world in a given time period.
-date: 2024-08-03 11:32:00 +0800
+date: 2024-08-03 11:33:00 +0800
 pin: false
 ---
 
