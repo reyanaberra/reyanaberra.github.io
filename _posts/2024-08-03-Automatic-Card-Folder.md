@@ -13,7 +13,7 @@ _Original drawings conceptualizing different design options for the card folder_
 ## Linear Actuator Mechanism Animation
 
 {% include embed/youtube.html id='ZF4qDohYZ90' %}
-<p class="code-caption">Sample code block demonstrating a simple print statement in Python</p>
+<p class="code-caption">Lead screw mechanism integrating a NEMA-17 stepper motor, lead screw, brass nut, shaft, and coupling to facilitate linear motion of platform</p>
 
 ## Automatic Card Folder
 
