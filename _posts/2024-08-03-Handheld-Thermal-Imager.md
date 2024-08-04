@@ -9,11 +9,8 @@ pin: false
 
 ```assets
 @import
-  "img/ComputerImages/Thermal_Camera.ino"
+  "img/ComputerImages/Thermal_Camera.ino";
 ```
-
-![Desktop View](/assets/img/ComputerImages/CoolingCase.png){: width="972" height="589" }
-_C++ code in Arduino IDE, interfaces all components with each other, integrates buttons and defines color maps_
 
 ## TinkerCAD Diagram
 
