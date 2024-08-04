@@ -53,7 +53,7 @@ plot(Dates, TempsLows, 'b-', Dates, TempsHighs, 'r-', Dates, TempsAvg, 'g-', 'Li
 title('March Daily Temperature Variation in Tempe, Arizona'); xlabel('Date'); ylabel('Temperature (°F)');
 ```
 {: file='assets/img/TemperatureVariation/TemperatureVariation.m'}
-_MATLAB program which intakes monthly temperature data and creates a plot_
+<p class="code-caption">MATLAB program which intakes monthly temperature data and creates a plot</p>
 
 ## Temperature Data
 
