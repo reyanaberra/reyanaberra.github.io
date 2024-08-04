@@ -7,7 +7,7 @@ pin: false
 
 ## Python Code
 
-```sass
+```python
 import sys
 from time import sleep
 
