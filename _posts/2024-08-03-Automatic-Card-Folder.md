@@ -1,33 +1,21 @@
 ---
-title: Handheld Thermal Imager
-description: My custom handheld thermal imager using an ESP32, LCD display, and MLX90640
+title: Automatic Card Folder
+description: Components that I designed to be used in an automatic card folding machine commisioned by KeHE Distributors
 date: 2024-08-03 11:32:00 +0800
 pin: false
 ---
 
-## Thermal Imager Code
+## Concept
 
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography";
-```
-{: file='assets/img/ThermalImager/Thermal_Camera.ino'}
+![Desktop View](/assets/img/CardFolder/Concept.jpg){: width="972" height="589" }
+_Original drawings conceptualizing different design options for the card folder _
 
-## TinkerCAD Diagram
+## Linear Actuator Mechanism Animation
 
-![Desktop View](/assets/img/ThermalImager/TinkerCAD.png){: width="972" height="589" }
-_Circuit diagram of push button connections on mini breadboard_
+{% include embed/youtube.html id='ZF4qDohYZ90' %}
+_Lead screw mechanism integrating a NEMA-17 stepper motor, lead screw, brass nut, shaft, and coupling to facilitate linear motion of platform_
 
-## Fusion 360 CAD Model
+## Automatic Card Folder
 
-![Desktop View](/assets/img/ThermalImager/HandheldCase.png){: width="972" height="589" }
-_CAD model of thermal imager case_
-
-## Thermal Imager Photos
-
-![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
-_Photo of fully built 3D printed thermal imager case_
-
-![Desktop View](/assets/img/ThermalImager/CasePicture.jpg){: width="972" height="589" }
-_Photo of thermal camera showing my two fingers_
+![Desktop View](/assets/img/CardFolder/CardFolder.png){: width="972" height="589" }
+_Fully assembled automatic card folding machine_
