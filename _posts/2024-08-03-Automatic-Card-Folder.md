@@ -1,7 +1,7 @@
 ---
 title: Automatic Card Folder
 description: Components that I designed to be used in an automatic card folding machine commisioned by KeHE Distributors
-date: 2024-08-03 11:33:00 +0800
+date: 2024-08-03 06:33:00 +0800
 pin: false
 ---
 
