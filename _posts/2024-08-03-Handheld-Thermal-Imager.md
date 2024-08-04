@@ -9,7 +9,7 @@ pin: false
 
 ```assets
 @import
-  "img/ComputerImages/Thermal_Camera.ino";
+  "assets/img/ThermalImager/Thermal_Camera.ino";
 ```
 
 ## TinkerCAD Diagram
