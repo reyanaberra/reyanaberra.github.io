@@ -7,7 +7,7 @@ pin: false
 
 ## MATLAB Code
 
-```sass
+```matlab
 % Import time data from first column of spreadsheet and store in variable excelDates
 excelDates = readmatrix('temperature_data.xlsx', 'Range', [4, 1, 34, 1]);
 % Convert the date values from excel format to MM/dd/yyyy format
@@ -53,7 +53,9 @@ plot(Dates, TempsLows, 'b-', Dates, TempsHighs, 'r-', Dates, TempsAvg, 'g-', 'Li
 title('March Daily Temperature Variation in Tempe, Arizona'); xlabel('Date'); ylabel('Temperature (°F)');
 ```
 {: file='assets/img/TemperatureVariation/TemperatureVariation.m'}
-<p class="code-caption">MATLAB program which intakes monthly temperature data and creates a plot</p>
+<div style="text-align: center; font-size: smaller; color: #555;">
+MATLAB program which intakes monthly temperature data and creates a plot
+</div>
 
 ## Temperature Data
 
