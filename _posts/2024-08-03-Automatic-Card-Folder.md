@@ -8,7 +8,7 @@ pin: false
 ## Concept
 
 ![Desktop View](/assets/img/CardFolder/Concept.jpg){: width="972" height="589" }
-_Original drawings conceptualizing different design options for the card folder _
+_Original drawings conceptualizing different design options for the card folder_
 
 ## Linear Actuator Mechanism Animation
 
