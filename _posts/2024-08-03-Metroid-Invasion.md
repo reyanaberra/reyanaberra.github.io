@@ -293,7 +293,9 @@ if __name__ == "__main__":
     mi.run_game()
 ```
 {: file='assets/img/MetroidInvasion/MetroidInvasion.py'}
-<em>Python main file utilizing the pygame library</em>
+<p>
+  <em>Python main file utilizing the pygame library</em>
+</p>
 
 ## Gampeplay Photo
 
