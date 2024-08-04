@@ -1,7 +1,7 @@
 ---
 title: Solar Panel Power Meter
 description: Group project where we built a power meter meant to display the electrical parameters of a solar panel
-date: 2024-08-03 11:33:00 +0800
+date: 2024-08-03 08:33:00 +0800
 pin: false
 ---
 
