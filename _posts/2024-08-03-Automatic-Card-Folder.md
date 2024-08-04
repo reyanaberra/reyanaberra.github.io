@@ -14,7 +14,7 @@ _Original drawings conceptualizing different design options for the card folder_
 
 {% include embed/youtube.html id='ZF4qDohYZ90' %}
 <div style="text-align: center; font-size: smaller; color: #555;">
-Python main file utilizing the pygame library
+Lead screw mechanism integrating a NEMA-17 stepper motor, lead screw, brass nut, shaft, and coupling to facilitate linear motion of platform
 </div>
 
 ## Automatic Card Folder
