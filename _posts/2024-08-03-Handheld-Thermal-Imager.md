@@ -7,7 +7,7 @@ pin: false
 
 ## Thermal Imager Code
 
-```sass
+```cpp
 #include <TFT_eSPI.h>
 #include <SD.h>
 #include <SPI.h>
@@ -301,7 +301,9 @@ void drawMeasurement() {
 }
 ```
 {: file='Thermal_Camera.ino'}
-_C++ code in Arduino IDE, interfaces all components with each other, integrates buttons and defines color maps_
+<div style="text-align: center; font-size: smaller; color: #555;">
+C++ code in Arduino IDE, interfaces all components with each other, integrates buttons and defines color maps
+</div>
 
 ## TinkerCAD Diagram
 
