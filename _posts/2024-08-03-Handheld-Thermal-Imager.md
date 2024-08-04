@@ -1,41 +1,29 @@
 ---
-title: Computer Cooling Case
-description: My coupled fluid-thermal CFD simulation project in Ansys Fluent
+title: Handheld Thermal Imager
+description: My custom handheld thermal imager using an ESP32, LCD display, and MLX90640
 date: 2024-08-03 11:33:00 +0800
 pin: false
 ---
 
-## SolidWorks CAD Model
+## Thermal Imager Code
 
 ![Desktop View](/assets/img/ComputerImages/CoolingCase.png){: width="972" height="589" }
-_CAD model of the case housing a Raspberry Pi 5_
+_C++ code in Arduino IDE, interfaces all components with each other, integrates buttons and defines color maps_
 
-## SpaceClaim Cleanup
+## Circuit Diagram
 
 ![Desktop View](/assets/img/ComputerImages/GeometryCleaning.png){: width="972" height="589" }
-_Simplified geometry using Ansys SpaceClaim to increase mesh quality and reduce computational load_
+_Circuit diagram of push button connections on mini breadboard_
 
-## Component Meshing
-
-![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
-_Mesh of Raspberry Pi 5 optimized for orthogonal quality and skewness_
-
-## Surface Temperature Contour Plots
+## SolidWorks CAD Model
 
 ![Desktop View](/assets/img/ComputerImages/ThermalImage.png){: width="972" height="589" }
-_Surface temperatures results of all six chips on the Raspberry Pi 5 after a coupled fluid-thermal simulation_
+_CAD model of thermal imager case_
 
-## Velocity Vector Plots
+## Thermal Imager Photos
 
-![Desktop View](/assets/img/ComputerImages/AirflowImage.png){: width="972" height="589" }
-_Vector plots showcasing airflow velocity in and around the case_
+![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
+_Photo of fully built 3D printed thermal imager case_
 
-## Stress Test Results
-
-![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
-_Real-world thermal performance results of a Raspberry Pi 5 using the default OS stress test_
-
-## 3D Printed Case
-
-![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
-_Final product of 3D printed case using black ASA filament housing Raspberry Pi 5_
+![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
+_Photo of thermal camera showing my two fingers_
