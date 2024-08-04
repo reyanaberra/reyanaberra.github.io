@@ -1,7 +1,7 @@
 ---
 title: Computer Cooling Case
 description: My coupled fluid-thermal CFD simulation project in Ansys Fluent
-date: 2024-08-03 10:33:00 +0800
+date: 2024-08-03 11:33:00 +0800
 pin: false
 ---
 
