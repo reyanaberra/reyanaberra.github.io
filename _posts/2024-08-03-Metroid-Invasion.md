@@ -293,7 +293,7 @@ if __name__ == "__main__":
     mi.run_game()
 ```
 {: file='assets/img/MetroidInvasion/MetroidInvasion.py'}
-<div style="text-align: center;">
+<div style="text-align: center; font-size: smaller; color: #555;">
 _Python main file utilizing the pygame library_
 </div>
 
