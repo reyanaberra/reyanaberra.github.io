@@ -28,6 +28,6 @@
 #   url:  ''                  # Fill with your stackoverflow homepage
 
 - type: pdf
-- icon: "fas fa-file-pdf"  # Font Awesome icon class for PDF
+- icon: "fab fa-linkedin"  # Font Awesome icon class for PDF
 - noblank: false  # Set to true if you want the link to open in a new tab
 - url: "/assets/img/Resume9.pdf"  # URL to the PDF file
