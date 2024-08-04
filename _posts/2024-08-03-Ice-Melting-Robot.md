@@ -7,7 +7,7 @@ pin: false
 
 ## Robot Code
 
-```sass
+```cpp
 #include <AFMotor.h>
 #include <Servo.h>
 AF_DCMotor motor1(1);
@@ -217,7 +217,9 @@ void loop()
 }
 ```
 {: file='Ice_Melting_Robot.ino'}
-_C++ code in Arduino IDE, incorporates object detection and semi-autonomous movement_
+<div style="text-align: center; font-size: smaller; color: #555;">
+C++ code in Arduino IDE, incorporates object detection and semi-autonomous movement
+</div>
 
 ## Circuit Diagram
 
