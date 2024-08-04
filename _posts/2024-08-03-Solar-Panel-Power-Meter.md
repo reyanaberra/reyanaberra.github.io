@@ -1,33 +1,26 @@
 ---
-title: Handheld Thermal Imager
-description: My custom handheld thermal imager using an ESP32, LCD display, and MLX90640
-date: 2024-08-03 11:32:00 +0800
+title: Solar Panel Power Meter
+description: Group project where we built a power meter meant to display the electrical parameters of a solar panel
+date: 2024-08-03 11:30:00 +0800
 pin: false
 ---
 
-## Thermal Imager Code
+## Circuit Schematic
 
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography";
-```
-{: file='assets/img/ThermalImager/Thermal_Camera.ino'}
+![Desktop View](/assets/img/PanelPower/CircuitSchematic.png){: width="972" height="589" }
+_Circuit schematic of solar panel power meter_
 
-## TinkerCAD Diagram
+## Circuit Diagram
 
-![Desktop View](/assets/img/ThermalImager/TinkerCAD.png){: width="972" height="589" }
-_Circuit diagram of push button connections on mini breadboard_
+![Desktop View](/assets/img/PanelPower/CircuitDiagram.png){: width="972" height="589" }
+_Circuit diagram of solar panel power meter_
 
-## Fusion 360 CAD Model
+## Circuit Photo
 
-![Desktop View](/assets/img/ThermalImager/HandheldCase.png){: width="972" height="589" }
-_CAD model of thermal imager case_
+![Desktop View](/assets/img/PanelPower/SolarPanel.jpg){: width="972" height="589" }
+_Fully wired solar panel power meter under heat lamp_
 
-## Thermal Imager Photos
+## Display Photo
 
-![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
-_Photo of fully built 3D printed thermal imager case_
-
-![Desktop View](/assets/img/ThermalImager/CasePicture.jpg){: width="972" height="589" }
-_Photo of thermal camera showing my two fingers_
+![Desktop View](/assets/img/PanelPower/PowerMeter.jpg){: width="972" height="589" }
+_Solar panel power meter displaying correct reading of power output_
