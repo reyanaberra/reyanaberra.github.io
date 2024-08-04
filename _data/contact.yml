@@ -2,6 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/reyanaberra/Portfolio'
 
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
@@ -29,5 +30,4 @@
 
 - type: pdf
 - icon: "fab fa-linkedin"  # Font Awesome icon class for PDF
-- noblank: false  # Set to true if you want the link to open in a new tab
 - url: "/assets/img/Resume9.pdf"  # URL to the PDF file
