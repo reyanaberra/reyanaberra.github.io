@@ -28,6 +28,6 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 
-- type: pdf
+- type: linkedin
 - icon: "fab fa-linkedin"  # Font Awesome icon class for PDF
 - url: "/assets/img/Resume9.pdf"  # URL to the PDF file
