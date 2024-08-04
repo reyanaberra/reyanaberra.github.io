@@ -23,18 +23,3 @@
     height: 176px !important; /* Adjust the height as needed */
     object-fit: cover; /* Ensure the image covers the container */
 }
-
-.caption {
-    text-align: center;
-    font-size: 0.9em; /* Small text */
-    color: #333; /* Dark color, adjust as needed */
-    font-style: normal; /* Non-italicized */
-    margin-top: 0.5em;
-}
-
-/* Apply caption styles to specific elements */
-img + .caption,
-.embed-video + .caption,
-pre + .caption {
-    @extend .caption;
-}
