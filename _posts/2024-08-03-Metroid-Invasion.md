@@ -294,7 +294,7 @@ if __name__ == "__main__":
 ```
 {: file='assets/img/MetroidInvasion/MetroidInvasion.py'}
 <div style="text-align: center;">
-</div>_Python main file utilizing the pygame library_
+_Python main file utilizing the pygame library_
 </div>
 
 ## Gampeplay Photo
