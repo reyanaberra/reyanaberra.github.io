@@ -216,7 +216,7 @@ void loop()
   }
 }
 ```
-{: file='assets/img/ThermalImager/Ice_Melting_Robot.ino'}
+{: file='Ice_Melting_Robot.ino'}
 _C++ code in Arduino IDE, incorporates object detection and semi-autonomous movement_
 
 ## Circuit Diagram
@@ -237,5 +237,4 @@ _Interior of the robot chassis with the heating elements mounted on the side_
 
 ## Robot Demo
 
-![Desktop View](/assets/img/MeltingRobot/MarsRobotDemo.mp4){: width="972" height="589" }
-_Test video of robot successfully locating and loading object_
+{% include embed/youtube.html id='RLdY105ML2s' %}
