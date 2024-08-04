@@ -1,7 +1,7 @@
 ---
 title: University Rover Challenge
 description: Work that I have done on the university rover challenge with the ASU SunDevil Robotics Team
-date: 2024-08-03 11:32:00 +0800
+date: 2024-08-03 11:33:00 +0800
 pin: false
 ---
 
