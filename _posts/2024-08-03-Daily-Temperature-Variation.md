@@ -1,7 +1,7 @@
 ---
 title: Daily Temperature Variation
 description: MATLAB program which plots the maximum, minimum, and average daily temperatures in Tempe, Arizona in the month of March, 2023. Can be modified for any time and place given the correct data.
-date: 2024-08-03 11:32:00 +0800
+date: 2024-08-03 11:33:00 +0800
 pin: false
 ---
 
