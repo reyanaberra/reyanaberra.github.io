@@ -7,7 +7,7 @@ pin: false
 
 ## SolidWorks CAD Model
 
-![Desktop View](/assets/img/ComputerImages/CoolingCase.png){: width="972" height="589" }
+![Desktop View](/assets/img/ComputerImages/CoolingCase.png){: width="500" height="200" }
 _CAD model of the case housing a Raspberry Pi 5_
 
 ## SpaceClaim Cleanup
