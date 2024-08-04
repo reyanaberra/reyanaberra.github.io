@@ -9,8 +9,10 @@ pin: false
 
 ```sass
 @import
-  "assets/img/ThermalImager/Thermal_Camera.ino";
+  "colors/light-typography",
+  "colors/dark-typography";
 ```
+{: file='assets/img/ThermalImager/Thermal_Camera.ino'}
 
 ## TinkerCAD Diagram
 
