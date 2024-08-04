@@ -23,16 +23,3 @@
     height: 176px !important; /* Adjust the height as needed */
     object-fit: cover; /* Ensure the image covers the container */
 }
-
-.custom-code-block .error {
-    background-color: transparent; /* Remove background color */
-    border: none; /* Remove border */
-    color: inherit; /* Reset text color */
-}
-
-/* General rule for any code block */
-code .error {
-    background-color: transparent; /* Remove background color */
-    border: none; /* Remove border */
-    color: inherit; /* Reset text color */
-}
