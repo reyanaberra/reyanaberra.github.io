@@ -301,6 +301,7 @@ void drawMeasurement() {
 }
 ```
 {: file='Thermal_Camera.ino'}
+_C++ code in Arduino IDE, interfaces all components with each other, integrates buttons and defines color maps_
 
 ## TinkerCAD Diagram
 
@@ -314,8 +315,8 @@ _CAD model of thermal imager case_
 
 ## Thermal Imager Photos
 
-![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
+![Desktop View](/assets/img/ThermalImager/CasePicture.jpg){: width="972" height="589" }
 _Photo of fully built 3D printed thermal imager case_
 
-![Desktop View](/assets/img/ThermalImager/CasePicture.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/ThermalImager/CameraTest.jpg){: width="972" height="589" }
 _Photo of thermal camera showing my two fingers_
