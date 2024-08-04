@@ -1,33 +1,16 @@
 ---
-title: Handheld Thermal Imager
-description: My custom handheld thermal imager using an ESP32, LCD display, and MLX90640
+title: Snowflake Ornament
+description: Snowflake ornament made using laser cutting
 date: 2024-08-03 11:32:00 +0800
 pin: false
 ---
 
-## Thermal Imager Code
+## Snowflake SVG File
 
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography";
-```
-{: file='assets/img/ThermalImager/Thermal_Camera.ino'}
+![Desktop View](/assets/img/SnowflakeOrnament/Snowflake.svg){: width="972" height="589" }
+_Snowflake png converted to an SVG file using Inkscape_
 
-## TinkerCAD Diagram
+## Ornament Photo
 
-![Desktop View](/assets/img/ThermalImager/TinkerCAD.png){: width="972" height="589" }
-_Circuit diagram of push button connections on mini breadboard_
-
-## Fusion 360 CAD Model
-
-![Desktop View](/assets/img/ThermalImager/HandheldCase.png){: width="972" height="589" }
-_CAD model of thermal imager case_
-
-## Thermal Imager Photos
-
-![Desktop View](/assets/img/ComputerImages/Meshing.png){: width="972" height="589" }
-_Photo of fully built 3D printed thermal imager case_
-
-![Desktop View](/assets/img/ThermalImager/CasePicture.jpg){: width="972" height="589" }
-_Photo of thermal camera showing my two fingers_
+![Desktop View](/assets/img/SnowflakeOrnament/SnowflakeImage.jpg){: width="972" height="589" }
+_Snowflake design laser cut onto a piece of wood_
