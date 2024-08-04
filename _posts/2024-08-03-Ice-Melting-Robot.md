@@ -238,3 +238,4 @@ _Interior of the robot chassis with the heating elements mounted on the side_
 ## Robot Demo
 
 {% include embed/youtube.html id='RLdY105ML2s' %}
+_Test video of robot successfully locating and loading object_
