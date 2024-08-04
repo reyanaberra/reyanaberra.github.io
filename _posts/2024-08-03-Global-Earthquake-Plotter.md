@@ -7,7 +7,7 @@ pin: false
 
 ## MATLAB Code
 
-```sass
+```matlab
 % Open a light gray canvas of the world map
 webmap('Light Gray Canvas Map')
 
@@ -50,7 +50,9 @@ for i = 1:size(Coords)
 end
 ```
 {: file='assets/img/EarthquakePlotter/EarthquakePlotter.m'}
-_MATLAB program which intakes global earthquake data and plots them on global map, utilizes the mapping toolbox_
+<div style="text-align: center; font-size: smaller; color: #555;">
+MATLAB program which intakes global earthquake data and plots them on global map, utilizes the mapping toolbox
+</div>
 
 ## Earthquake Data
 
