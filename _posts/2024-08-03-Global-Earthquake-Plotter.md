@@ -56,7 +56,7 @@ MATLAB program which intakes global earthquake data and plots them on global map
 
 ## Earthquake Data
 
-![Desktop View](/assets/img/ThermalImager/TinkerCAD.png){: width="972" height="589" }
+![Desktop View](/assets/img/ThermalImager/EarthquakeData.png){: width="972" height="589" }
 _xlsx spreadsheet of global earthquake magnitude and coordinate data taken from US geological survey database_
 
 ## Earthquake Map
