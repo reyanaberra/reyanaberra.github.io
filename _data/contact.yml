@@ -30,4 +30,4 @@
 
 - type: pdf
   icon: 'fas fa-file-pdf'  # Font Awesome icon class for PDF
-  url:  '/assets/img/Resume9.pdf'  # URL to the PDF file
+  url:  '/assets/img/Resume.pdf'  # URL to the PDF file
