@@ -30,12 +30,12 @@ _Surface temperatures results of all six chips on the Raspberry Pi 5 after a cou
 ![Desktop View](/assets/img/ComputerImages/AirflowImage.png){: width="972" height="589" }
 _Vector plots showcasing airflow velocity in and around the case_
 
-<!--
 ## Stress Test Results
 
-![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/ComputerImages/StressTest.png){: width="972" height="589" }
 _Real-world thermal performance results of a Raspberry Pi 5 using the default OS stress test_
 
+<!--
 ## 3D Printed Case
 
 ![Desktop View](/assets/img/profile_picture.jpg){: width="972" height="589" }
