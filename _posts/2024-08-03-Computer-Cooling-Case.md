@@ -32,7 +32,7 @@ _Vector plots showcasing airflow velocity in and around the case_
 
 ## Stress Test Results
 
-![Desktop View](/assets/img/ComputerImages/StressTest.png){: width="972" height="589" }
+![Desktop View](/assets/img/ComputerImages/StressTest.png)<!--{: width="972" height="589" }-->
 _Real-world thermal performance results of a Raspberry Pi 5 using the default OS stress test_
 
 <!--
