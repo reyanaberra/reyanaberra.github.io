@@ -16,7 +16,7 @@ timezone: America/Phoenix
 
 title: Reyan Aberra # the main title
 
-tagline: I am a Mechanical Engineering student at Arizona State University. I have a passion for the robotics, semiconductors, and consumer electronics industries. I am most interested in roles involving product design, structural simulation, and thermal analysis. # it will display as the sub-title
+tagline: I am a Mechanical Engineering student at Arizona State University. I have a passion for thermal and mechanical design, analysis, simulation, and testing. I am most interested in roles within the semiconductor, computer hardware, and consumer electronics industries. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
